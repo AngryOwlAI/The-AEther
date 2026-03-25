@@ -6,7 +6,8 @@
 **Autor:**  
 <img width="30" height="30" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"> Alexander Ricciardi (Omega.py)
 
-This project was originally hosted here: [Omega.py/AEther](https://github.com/Omegapy/AEther/)
+This project was originally hosted here: [Omega.py/AEther](https://github.com/Omegapy/AEther/)  
+
 Futher research, the derivating of General Relativity from "The Æther-Flow Interpretation of Relativity" can be found here:
 [AngryOwl/The-AEther-GR-Derivation](https://github.com/AngryOwlAI/The-AEther-GR-Derivation)
 
