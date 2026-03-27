@@ -23,7 +23,9 @@ The experiment ran for an average of 6 hours per day over 14 days. LaTeX was use
 
 The experiment produced a manuscript theory package titled `The Æther-Flow Interpretation of Relativity`, based on my [Æther_and_Æther-Flow.md](Æther_and_Æther-Flow.md) concept. The manuscript set includes 7 exact-closure articles supporting the theory, 1 front-facing flagship article, and 87 research articles in total.
 
-I am not a theoretical physicist, so I cannot independently judge whether the theory is ultimately correct or physically viable. If you are a theoretical physicist, I would welcome your feedback.  
+This project utilized a semi-autonomous AI workflow, employing the Codex App and GPT-5.4 as the primary researcher and drafter under human supervision. While the foundational [Æther and Æther-Flow](Æther_and_Æther-Flow.md) concept is Alexander Ricciardi's original idea, the AI was used to formalize, extend, organize, and stress-test the manuscript into LaTeX and PDF formats. The human operator's role was strictly administrative, that is managing the prompting pipeline, with the same set of prompts, and ensuring proper file generation, rather than peer-reviewing the viability of the physics content. Consequently, the actual research was conducted entirely by the AI.
+
+Author: I am not a theoretical physicist, so I cannot independently judge whether the theory is ultimately correct or physically viable. If you are a theoretical physicist, I would welcome your feedback.  
 I am interested in how viable the process I used is for generating theoretical physics research.  
 
 ## Summary of the Æther and Æther-Flow Concept
@@ -40,7 +42,6 @@ I am interested in how viable the process I used is for generating theoretical p
 ## What This Repository Preserves
 
 This repository preserves the manuscript line, curated release assets, and supporting documentation for `The Æther-Flow Interpretation of Relativity`.
-
 
 The central theory package preserved in this repository is the overview-first exact-closure package. Within that package, general relativity is adopted exactly as the operational relativistic sector with universal matter coupling, while the `Æther / Æther-flow` framework supplies the interpretive ontology. A completed first-principles substrate derivation is not claimed here.
 
